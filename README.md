@@ -5,12 +5,9 @@ Sarkul Technology Private Ltd. is a leading provider of **IT infrastructure mana
 
 ## Tech Stack
 This project is built using **Next.js** along with:
-- **React.js** – Component-based UI development
-- **MongoDB** – NoSQL database for efficient data storage
+- **Next.js** – Component-based UI development
 - **Tailwind CSS** – Utility-first modern styling
 - **Vercel** – Fast and reliable deployment
-- **Typesense** – High-speed search functionality
-- **Redux** – State management for optimized performance
 
 ## Features
 - **Comprehensive IT Solutions** – Covers cybersecurity, data protection, and cloud services.
