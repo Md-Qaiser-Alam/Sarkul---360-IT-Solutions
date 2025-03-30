@@ -16,7 +16,7 @@ This project is built using **Next.js** along with:
 - **Career Portal** – Allows candidates to explore and apply for job openings.
 
 ## Live Demo
-Visit the official website: **[Sarkul.in](https://sarkul.in)**
+Visit the official website: **[Sarkul.in](https://sarkul.in)** or you can Google it 🌍 and witness the power of my SEO skills! 🚀
 
 ## Contact
 For inquiries, visit **[Sarkul.in](https://sarkul.in)** or email **contact@sarkul.co.in**.
