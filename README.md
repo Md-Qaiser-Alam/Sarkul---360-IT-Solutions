@@ -3,7 +3,7 @@
 ## Overview
 Sarkul Technology Private Ltd. is a leading provider of **IT infrastructure management, cybersecurity, data security, and digital marketing services**. This project serves as the official website for Sarkul, offering a seamless and secure digital experience. Proudly built by me to ensure top-notch performance and reliability. 🚀
 
-## Tech Stack
+## Tech Stack 
 This project is built using **Next.js** along with:
 - **Next.js** – Component-based UI development
 - **Tailwind CSS** – Utility-first modern styling
