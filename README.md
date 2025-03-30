@@ -19,7 +19,7 @@ This project is built using **Next.js** along with:
 Visit the official website: **[Sarkul.in](https://sarkul.in)**
 
 ## Contact
-For inquiries, visit **[Sarkul.in](https://sarkul.in)** or email **Contact@sarkul.co.in**.
+For inquiries, visit **[Sarkul.in](https://sarkul.in)** or email **contact@sarkul.co.in**.
 
 ---
 🚀 Built with **Next.js** for a future-ready web experience by me! 😃
